@@ -1,0 +1,13 @@
+{
+    "dev": {
+        "app_function": "app.main.app",
+        "aws_region": "us-east-1",
+        "project_name": "fondos-btg-backend",
+        "runtime": "python3.8",
+        "s3_bucket": "fondos-btg-backend-unique-id-12345",
+        "timeout_seconds": 30,
+        "memory_size": 128,
+        "use_apigateway": true,
+        "cors": true
+    }
+}
