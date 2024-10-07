@@ -13,3 +13,14 @@ Python 3.11
 AWS CLI configurado
 GitHub Actions para CI/CD
 Uvicorn para servir la API localmente
+
+
+# Prueba Técnica BTG - Parte 2: Consultas SQL
+
+Este proyecto contiene el script SQL para crear una base de datos que simula la interacción entre clientes, productos, sucursales, y visitas en una plataforma de fondos de inversión. La base de datos está diseñada en PostgreSQL y permite obtener información sobre los clientes que tienen inscrito algún producto disponible solo en las sucursales que han visitado.
+
+## Requisitos
+
+- PostgreSQL instalado en tu sistema.
+- Un entorno de línea de comandos para ejecutar las consultas.
+- Un cliente de base de datos como [pgAdmin](https://www.pgadmin.org/) o cualquier otra herramienta que prefieras.
